@@ -1,0 +1,94 @@
+* {
+    text-decoration: none;
+    text-underline: none;
+    list-style: none;
+
+}
+
+body {
+    max-width: 960px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+header {
+    padding: 10px 10px 10px 10px;
+}
+
+header span {
+    position: relative;
+    top: -10px;
+}
+
+#logo img {
+    width: 15%;
+    float: left;
+    clear: both;
+    margin-right: 20px;
+}
+
+nav  {
+    max-width: 18%;
+    float: left;
+    margin-top: 5px;
+    clear: left;
+    margin-bottom: 20px;
+    margin-right: 10px;
+
+}
+
+nav ul li{
+    position: relative;
+    left: -30px;
+    margin-bottom: 30px;
+    clear: both;
+}
+
+main {
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    max-width: 100%;
+}
+
+section form{
+    max-width: 100%;
+}
+
+section form div {
+    margin-bottom: 20px;
+}
+
+section form div input{
+    width: 30%;
+    margin-left: 60px;
+}
+
+section form div textarea{
+    width: 30%;
+    margin-left: 40px;
+}
+
+section form div select{
+    width: 30%;
+    margin-left: 40px;
+}
+
+form *{
+    vertical-align: top;
+}
+
+.label{
+    color: red;
+}
+
+#right {
+    max-width: 80%;
+    float: right;
+}
+
+
+footer {
+    margin-left: 10px;
+    max-width: 100%;
+    clear: both;
+}
