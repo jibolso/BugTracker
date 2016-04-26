@@ -34,7 +34,7 @@
 
     </main>
     <footer>
-        <p>Designed by Ajibola Obayemi, 1311059</p>
+        <p>Designed by Ajibola Obayemi <br><span>&copy; 2016</span></p>
     </footer>
 
 </body>
