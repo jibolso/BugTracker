@@ -40,7 +40,7 @@
                     echo "<h3>".$row['bugName']."</h3>";
                     echo "<h3>".$row['bugCategory']."</h3>";
                     echo "<p>".$row['bugSummary']."</p>";
-                    echo "</section>";
+                    echo "</section><hr>";
 
                 }
                 echo "<script type='application/javascript'>";
